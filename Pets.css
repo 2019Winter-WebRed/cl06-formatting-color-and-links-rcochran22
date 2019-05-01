@@ -1,0 +1,24 @@
+/*
+* Riley Cochran
+* 04/11/19
+* Labs Are Lazy
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {background-color:pink;
+}
+header{ background-color:antiquewhite;}
+main {background-color:cadetblue;}
+footer {background-color: deeppink}
+#Lab{width: 200px; height: 150px; float:right;}
+
+body{font-family: "Times New Roman", Times, serif;}
+
+a:link{color: deeppink;text-decoration:none;}
+a:hover; a:focus{color:blue}
